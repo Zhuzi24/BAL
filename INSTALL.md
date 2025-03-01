@@ -9,13 +9,14 @@
 - matplotlib
 - GCC >= 4.9
 - OpenCV
+- python (Mine 3.8.18)
 
 
 ### Step-by-step installation
 
 ```bash
 
-conda create --name BAL_RS_SGG
+conda create --name BAL_RS_SGG 
 conda activate BAL_RS_SGG
 
 
