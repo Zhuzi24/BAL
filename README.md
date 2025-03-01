@@ -1,1 +1,1 @@
-# BAL
+ The Full code of the paper "Bias-Aware Learning for Unbiased Scene Graph Generation in Remote Sensing Imagery" will be available soon.
