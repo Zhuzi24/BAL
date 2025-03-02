@@ -79,8 +79,7 @@ title="Fine-Grained Scene Graph Generation via Sample-Level Bias Prediction",
 booktitle="Computer Vision -- ECCV 2024",
 year="2025",
 publisher="Springer Nature Switzerland",
-pages="18--35"
-}
+pages="18--35"}
 
 # Remote Sensing Large Multi-Modal Models for SGG
 @article{SkySenseGPT,
