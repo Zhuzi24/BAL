@@ -44,8 +44,8 @@ cd apex
 python setup.py install --cuda_ext --cpp_ext
 
 cd $INSTALL_DIR
-git clone https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch.git
-cd scene-graph-benchmark
+git clone https://github.com/Zhuzi24/BAL.git
+cd BAL
 
 python setup.py build develop
 unset INSTALL_DIR
