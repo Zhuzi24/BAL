@@ -6,7 +6,7 @@
 
 <h1 style="text-align: center;">Bias-Aware Learning for Unbiased Scene Graph Generation in Remote Sensing Imagery</h1>
 
-The official implementation of the paper "Bias-Aware Learning for Unbiased Scene Graph Generation in Remote Sensing Imagery"，which is the extended version of "ECCV2024-Fine-Grained-Scene-Graph-Generation-via-Sample-Level-Bias-Prediction".
+The official implementation of the paper "Bias-Aware Learning for Unbiased Scene Graph Generation in Remote Sensing Imagery", which is the extended version of "ECCV2024-Fine-Grained-Scene-Graph-Generation-via-Sample-Level-Bias-Prediction".
 
 <!-- ## 📢 Latest Updates
 :fire::fire::fire: Last Updated on 2024-10-20 :fire::fire::fire:
