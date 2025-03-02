@@ -56,7 +56,7 @@ pip install openmim
 mim install mmcv-full # Mine 1.7.1   
 mim install mmdet # Mine 2.26.0 
 git clone https://github.com/open-mmlab/mmrotate.git
-cd mmrotate
+cd mmrotate-main
 pip install -r requirements/build.txt
 pip install -v -e .
 
